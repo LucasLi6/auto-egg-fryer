@@ -1,0 +1,21 @@
+# Keil µVision / MDK-ARM build & user-specific files
+OBJ/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.dep
+*.lnp
+*.bak
+*.uvguix*
+*.uvoptx
+*.uvguix.*
+*.scvd
+*.uvguix_*
+
+# Editor / OS
+*.swp
+Thumbs.db
+Desktop.ini
